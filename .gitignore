@@ -27,9 +27,12 @@ hs_err_pid*
 *.pydevproject
 .project
 .metadata
-bin/
-tmp/
-target/
+*/bin/
+/tmp
+/bin/
+*/tmp
+/target
+*/target
 *.tmp
 *.fxbuild
 *.bak
